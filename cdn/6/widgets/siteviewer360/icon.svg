@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg838">
+	<defs id="defs1439">
+	  <mask id="mask">
+	  <rect
+		 y="0"
+		 x="0"
+		 height="100"
+		 width="100"
+		 style="fill:#FFFFFF;" />
+		<ellipse
+		   cx="50"
+		   cy="-5"
+		   rx="60"
+		   ry="15"
+           style="fill:#000000;" />
+		<ellipse
+		   cx="50"
+		   cy="105"
+		   rx="60"
+		   ry="15"
+           style="fill:#000000;" />
+	  </mask>
+	  <mask id="mask2">
+	  <rect
+		 y="0"
+		 x="0"
+		 height="100"
+		 width="100"
+		 style="fill:#FFFFFF;" />
+		<ellipse
+		   cx="50"
+		   cy="-5"
+		   rx="60"
+		   ry="15"
+           style="fill:#000000;" />
+		<ellipse
+		   cx="50"
+		   cy="105"
+		   rx="60"
+		   ry="15"
+           style="fill:#000000;" />
+      <path
+         d="m 67.870347,41.285436 36.740483,59.255494 -72.679141,0.4374 z"
+         id="path1385"
+            fill="black"
+            fill-opacity="1"
+           style="fill:#000000;" />
+	  </mask>
+	</defs>
+  <rect
+     y="0"
+     x="0"
+     height="100"
+     width="100"
+     id="rect1391"
+		stroke="black"
+		stroke-width="12"
+		fill-opacity="0"
+     mask="url(#mask)" />
+  <ellipse
+     ry="8"
+     rx="8"
+     cy="30"
+     cx="80"
+     id="path1387"
+	fill="black"
+	fill-opacity="1" />
+  <path
+     d="m 20.941624,30.013065 38.917011,71.088345 -78.823339,-0.59235 z"
+     id="path1383"
+	 stroke="black"
+     stroke-width="8"
+	 fill-opacity="0"
+     mask="url(#mask2)" />
+  <path
+     d="m 67.870347,41.285436 36.740483,59.255494 -72.679141,0.4374 z"
+     id="path1385"
+	 stroke="black"
+     stroke-width="8"
+	 fill-opacity="0"
+     mask="url(#mask)" />
+	 
+	<ellipse
+		stroke="black"
+		stroke-width="8"
+		fill-opacity="0"
+	   cx="50"
+	   cy="-5"
+	   rx="60"
+	   ry="15"
+	   mask="url(#mask)" />
+	<ellipse
+	   cx="50"
+	   cy="105"
+	   rx="60"
+	   ry="15"
+		stroke="black"
+		stroke-width="8"
+		fill-opacity="0"
+	   mask="url(#mask)" />
+</svg>

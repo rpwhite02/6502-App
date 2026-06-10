@@ -1,0 +1,757 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "As-Built Linework",
+      "header": true
+    },
+    "page_2": {
+      "id": "page_2",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_1"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "360 Photo Viewer",
+      "header": true,
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_1": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_8",
+          "bbox": {
+            "left": "0.0%",
+            "right": "55.1%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "44.9%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_9",
+          "bbox": {
+            "left": "44.9%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "55.1%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_2": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "71.0%",
+            "right": "0.0%",
+            "top": "6.5%",
+            "bottom": "0.0%",
+            "width": "29.0%",
+            "height": "93.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_4": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_3",
+          "bbox": {
+            "left": "73.7%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "68.7%",
+            "width": "26.3%",
+            "height": "31.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_4",
+          "bbox": {
+            "left": "73.7%",
+            "right": "0.1%",
+            "top": "31.3%",
+            "bottom": "0.0%",
+            "width": "26.2%",
+            "height": "68.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_7": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_10",
+          "bbox": {
+            "left": "-0.0%",
+            "right": "55.7%",
+            "top": "0.0%",
+            "bottom": "94.9%",
+            "width": "44.3%",
+            "height": "5.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "bbox": {
+            "left": "44.3%",
+            "right": "-0.6%",
+            "top": "0.0%",
+            "bottom": "84.4%",
+            "width": "56.3%",
+            "height": "15.6%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0",
+        "1"
+      ]
+    }
+  },
+  "exbVersion": "1.19.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/master/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/common/menu/",
+      "version": "1.19.0",
+      "label": "Menu",
+      "config": {
+        "type": "nav",
+        "vertical": false
+      },
+      "id": "widget_1"
+    },
+    "widget_2": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.19.0",
+      "label": "Map",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_1",
+        "initialMapState": null,
+        "scaleRange": null,
+        "customLODs": null
+      },
+      "id": "widget_2",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_4"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ],
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_3": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.19.0",
+      "label": "Map Layers",
+      "config": {
+        "useMapWidget": true,
+        "customizeLayerOptions": {
+          "widget_2-dataSource_1": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": [],
+            "showJimuLayerViewIds": [
+              "widget_2-dataSource_1-19d9212296e-layer-191",
+              "widget_2-dataSource_1-19d74540036-layer-23",
+              "widget_2-dataSource_1-19d745ee004-layer-24",
+              "widget_2-dataSource_1-19d747fff0c-layer-38",
+              "widget_2-dataSource_1-19d9212296e-layer-191-19d91f9db17-layer-111",
+              "widget_2-dataSource_1-19d9212296e-layer-191-19d91f095ec-layer-110",
+              "widget_2-dataSource_1-19d74540036-layer-23-21a7bafc061a427286c6e49f2093c503",
+              "widget_2-dataSource_1-19d74540036-layer-23-bb02f5e31f894aecad0f27c8b7a55b24",
+              "widget_2-dataSource_1-19d74540036-layer-23-e8e2f61e408149b5b32eba33d0e170ef",
+              "widget_2-dataSource_1-19d74540036-layer-23-b1f12d8d38634ceeb89ebb1534a02200",
+              "widget_2-dataSource_1-19d74540036-layer-23-11e7c795545f4ffa9608b6ad3bf913f9",
+              "widget_2-dataSource_1-19d74540036-layer-23-e6d1080df39a4e47a1dd89284222bd98",
+              "widget_2-dataSource_1-19d74540036-layer-23-457334cd74324695a61f3cb5934bbb16",
+              "widget_2-dataSource_1-19d74540036-layer-23-23a52a4dfb6f4648ba47dcaf49c37911",
+              "widget_2-dataSource_1-19d74540036-layer-23-cff28a3322124ea2998f01b359d803fd",
+              "widget_2-dataSource_1-19d74540036-layer-23-6eb1f0395d904d78be3fef01ed88e512",
+              "widget_2-dataSource_1-19d74540036-layer-23-76ceca0e9a344565bc79483fce6c8bf3",
+              "widget_2-dataSource_1-19d74540036-layer-23-2e674b40bd74460e953897e97d3e1f64",
+              "widget_2-dataSource_1-19d74540036-layer-23-dda0eb662e8841c5b11a293a3e523ee7",
+              "widget_2-dataSource_1-19d74540036-layer-23-a6b0e5c825cc4b7384f565db38f84e31",
+              "widget_2-dataSource_1-19d74540036-layer-23-1876bc21f8894f8c8840599b37cf02ab",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-41",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-40",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-37",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-38",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-36",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-35",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-33",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-32",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-31",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-30",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-29",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-28",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23a-layer-27",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23a-layer-26",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23a-layer-25",
+              "widget_2-dataSource_1-19eb29565c9-layer-50"
+            ]
+          }
+        }
+      },
+      "id": "widget_3",
+      "useMapWidgetIds": [
+        "widget_2"
+      ]
+    },
+    "widget_4": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.19.0",
+      "label": "Legend",
+      "config": {
+        "customizeLayerOptions": {
+          "widget_2-dataSource_1": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": [],
+            "showJimuLayerViewIds": [
+              "widget_2-dataSource_1-19d74540036-layer-23",
+              "widget_2-dataSource_1-19d745ee004-layer-24",
+              "widget_2-dataSource_1-19d9212296e-layer-191-19d91f9db17-layer-111",
+              "widget_2-dataSource_1-19d9212296e-layer-191-19d91f095ec-layer-110",
+              "widget_2-dataSource_1-19d74540036-layer-23-21a7bafc061a427286c6e49f2093c503",
+              "widget_2-dataSource_1-19d74540036-layer-23-bb02f5e31f894aecad0f27c8b7a55b24",
+              "widget_2-dataSource_1-19d74540036-layer-23-e8e2f61e408149b5b32eba33d0e170ef",
+              "widget_2-dataSource_1-19d74540036-layer-23-b1f12d8d38634ceeb89ebb1534a02200",
+              "widget_2-dataSource_1-19d74540036-layer-23-11e7c795545f4ffa9608b6ad3bf913f9",
+              "widget_2-dataSource_1-19d74540036-layer-23-e6d1080df39a4e47a1dd89284222bd98",
+              "widget_2-dataSource_1-19d74540036-layer-23-457334cd74324695a61f3cb5934bbb16",
+              "widget_2-dataSource_1-19d74540036-layer-23-23a52a4dfb6f4648ba47dcaf49c37911",
+              "widget_2-dataSource_1-19d74540036-layer-23-cff28a3322124ea2998f01b359d803fd",
+              "widget_2-dataSource_1-19d74540036-layer-23-6eb1f0395d904d78be3fef01ed88e512",
+              "widget_2-dataSource_1-19d74540036-layer-23-76ceca0e9a344565bc79483fce6c8bf3",
+              "widget_2-dataSource_1-19d74540036-layer-23-2e674b40bd74460e953897e97d3e1f64",
+              "widget_2-dataSource_1-19d74540036-layer-23-dda0eb662e8841c5b11a293a3e523ee7",
+              "widget_2-dataSource_1-19d74540036-layer-23-a6b0e5c825cc4b7384f565db38f84e31",
+              "widget_2-dataSource_1-19d74540036-layer-23-1876bc21f8894f8c8840599b37cf02ab",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-41",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-40",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-37",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-38",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23c-layer-36",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-35",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-33",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-32",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-31",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-30",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-29",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23b-layer-28",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23a-layer-27",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23a-layer-26",
+              "widget_2-dataSource_1-19d745ee004-layer-24-19d745ee23a-layer-25"
+            ],
+            "showRuntimeAddedLayers": true
+          }
+        }
+      },
+      "id": "widget_4",
+      "useMapWidgetIds": [
+        "widget_2"
+      ]
+    },
+    "widget_8": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.19.0",
+      "label": "Map 2",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": false,
+        "initialMapDataSourceID": "dataSource_3",
+        "initialMapState": null,
+        "scaleRange": null,
+        "customLODs": null,
+        "disablePopUp": true,
+        "showPopupUponSelection": false,
+        "popupDockPosition": ""
+      },
+      "id": "widget_8",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_7"
+        }
+      },
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_3",
+          "mainDataSourceId": "dataSource_3"
+        }
+      ]
+    },
+    "widget_9": {
+      "uri": "widgets/siteviewer360/",
+      "version": "2.0.0",
+      "label": "Site Viewer 360°",
+      "config": {
+        "imageSources": [
+          {
+            "dataSourceId": "dataSource_3-19e6a5a9240-layer-1",
+            "mainDataSourceId": "dataSource_3-19e6a5a9240-layer-1",
+            "rootDataSourceId": "dataSource_3",
+            "useAttachments": true,
+            "imageUrlExpression": null,
+            "imageDirectionExpression": {
+              "name": "{Direction}",
+              "parts": [
+                {
+                  "type": "FIELD",
+                  "exp": "{Direction}",
+                  "dataSourceId": "dataSource_3-19e6a5a9240-layer-1",
+                  "jimuFieldName": "Direction",
+                  "isFromRepeatedDataSourceContext": false
+                }
+              ]
+            },
+            "isPanoramicExpression": {
+              "name": "yes",
+              "parts": [
+                {
+                  "type": "STRING",
+                  "exp": "\"yes\""
+                }
+              ]
+            },
+            "isPanoramicTrueValues": [
+              "t",
+              "true",
+              "y",
+              "yes",
+              "360",
+              "360º",
+              "panoramic",
+              "1"
+            ],
+            "orderByField": null,
+            "orderByDescending": false,
+            "groupByField": null,
+            "hotspots": null
+          }
+        ],
+        "displayViewDirectionIndicator": true,
+        "enableSelectOnFeatureClick": true,
+        "version": 1.7,
+        "isPanoramicTrueValues": [
+          "t",
+          "true",
+          "y",
+          "yes",
+          "360",
+          "360º",
+          "panoramic",
+          "1"
+        ],
+        "hideGraphicsWhenNotVisible": true,
+        "toolbarMode": "None",
+        "identifyTolerance": 10
+      },
+      "id": "widget_9",
+      "useMapWidgetIds": [
+        "widget_8"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_3-19e6a5a9240-layer-1",
+          "mainDataSourceId": "dataSource_3-19e6a5a9240-layer-1",
+          "rootDataSourceId": "dataSource_3"
+        }
+      ]
+    },
+    "widget_10": {
+      "uri": "widgets/arcgis/swipe/",
+      "version": "1.19.0",
+      "label": "Swipe",
+      "config": {
+        "swipeStyle": "SIMPLE_HORIZONTAL",
+        "swipeMode": "SWIPE_BETWEEN_LAYERS_OF_ONE_MAP",
+        "styleConfig": {
+          "detailsVisibility": false
+        },
+        "swipeMapViewList": {
+          "widget_8-dataSource_3": {
+            "leadingLayersId": [
+              "widget_8-dataSource_3-19eb2964f54-layer-3"
+            ],
+            "trailingLayersId": [
+              "widget_8-dataSource_3-19e6a60a7c1-layer-127"
+            ]
+          }
+        }
+      },
+      "id": "widget_10",
+      "useMapWidgetIds": [
+        "widget_8"
+      ],
+      "offPanel": true
+    },
+    "widget_11": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.19.0",
+      "label": "Map Layers 2",
+      "config": {
+        "useMapWidget": true,
+        "label": false,
+        "information": false,
+        "enableLegend": false
+      },
+      "id": "widget_11",
+      "useMapWidgetIds": [
+        "widget_8"
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://aksengineering.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "express": false,
+    "title": "Multi Page Experience",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "timestamp": 1781114569024,
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {}
+  },
+  "mainLocale": "en",
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "6502 Aerial As-Built Web Map",
+      "itemId": "44c87fd512814d6b8faffc59245f6966",
+      "portalUrl": "https://aksengineering.maps.arcgis.com"
+    },
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "WEB_MAP",
+      "sourceLabel": "6502 Geotagged Photos to Points Web Map",
+      "itemId": "c56c4dc1593341a69419439cc8795bbb",
+      "portalUrl": "https://aksengineering.maps.arcgis.com"
+    },
+    "dataSource_3": {
+      "id": "dataSource_3",
+      "type": "WEB_MAP",
+      "sourceLabel": "6502 Resized 360 Photos",
+      "itemId": "1b9a33294fa04cb6874bc465ec91e237",
+      "portalUrl": "https://aksengineering.maps.arcgis.com"
+    }
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    },
+    {
+      "page_2": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_2"
+    },
+    "height": {
+      "LARGE": 32
+    }
+  },
+  "publishTimestamp": 1781114573324
+}

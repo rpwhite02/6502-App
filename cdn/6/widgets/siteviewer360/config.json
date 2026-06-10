@@ -1,0 +1,7 @@
+{
+  "imageSources": [],
+  "displayViewDirectionIndicator": true,
+  "enableSelectOnFeatureClick": true,
+  "version": 1.2,
+  "isPanoramicTrueValues": ["t", "true", "y", "yes", "360", "360º", "panoramic", "1"]
+}

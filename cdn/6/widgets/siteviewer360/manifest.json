@@ -1,0 +1,30 @@
+{
+  "name": "siteviewer360",
+  "label": "Site Viewer 360°",
+  "type": "widget",
+  "version": "2.0.0",
+  "exbVersion": "1.16.0",
+  "author": "Nodeology, LLC",
+  "description": "A simple, easy to use 360 image viewer for ArcGIS Experience Builder.",
+  "copyright": "© 2026 Nodeology, LLC",
+  "license": "A commercial license is required for production use. Production use means any deployment that supports live operations, serves end users, or is directly or indirectly associated with revenue-generating activity. Use for development, testing, staging, evaluation, demonstration, and marketing of a solution that incorporates this widget is permitted without a license. Contact Nodeology, LLC at info@nodeology.net for licensing information.",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "messageActions": [
+    {
+      "name": "view-selection",
+      "label": "View Selection",
+      "description": "Go to or look at the selected feature(s)",
+      "uri": "runtime/MessageActions/GoToSelectedFeatureMessageAction"
+    }
+  ]
+}
